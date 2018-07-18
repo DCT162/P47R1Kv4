@@ -1,0 +1,994 @@
+#!/usr/xbin/bash
+#HanyaToolsBiasa:)
+#GantiAuthor?KontolLu
+#JanganNgakuMastahKaloMasihRecodee:)
+#Recode?PmWeWoe
+#085760193797
+#P47R1K21
+
+clear
+python2 √π∆£¢€¥.py
+sleep 2
+echo "\033[32;1m"
+echo "Tunggu Lagi Direspond!!"
+sleep 3
+clear
+echo ""
+echo "\033[31;1m{$}\033[37;1m==============================================\033[31;1m{$}"
+echo ""
+echo "\033[33;1m   #\033[32;1m  Author : P47R1K21"
+echo "\033[33;1m   #\033[32;1m  Feat : Mr.B4J1N64N"
+echo "\033[33;1m   #\033[32;1m  Version : 4"
+echo "\033[33;1m   #\033[32;1m  Isi Tools : 50"
+echo "\033[33;1m   #\033[32;1m  Team : DARKNESS CYBER TEAM"
+echo "\033[33;1m   #\033[32;1m  Kontak Me : 085760193797"
+echo "\033[33;1m   #\033[32;1m  Youtube : P47R1K21 -{ Official }-"
+echo "\033[33;1m   #\033[32;1m  Special Thanks : Allah.SWT&Mr.B4J1N64N"
+echo ""
+echo "\033[31;1m{$}\033[37;1m==============================================\033[31;1m{$}"
+echo ""
+echo "\033[34;1m  {+}\033[36;1m Dipilih Toolsnya Yg Lu Mau Pake Gengs:)\033[34;1m {+}"
+echo ""
+echo "\033[31;1m  01\033[37;1m.\033[32;1mLITEDDOS\033[37;1m"
+echo "\033[31;1m  02\033[37;1m.\033[32;1mBAJINGANv6\033[37;1m"
+echo "\033[31;1m  03\033[37;1m.\033[32;1mLITETOOLS\033[37;1m"
+echo "\033[31;1m  04\033[37;1m.\033[32;1mLITESCRIPT\033[37;1m"
+echo "\033[31;1m  05\033[37;1m.\033[32;1mLazymux\033[37;1m"
+echo "\033[31;1m  06\033[37;1m.\033[32;1mGcoSpam\033[37;1m"
+echo "\033[31;1m  07\033[37;1m.\033[32;1mSpazSms\033[37;1m"
+echo "\033[31;1m  08\033[37;1m.\033[32;1mMetasploit\033[37;1m"
+echo "\033[31;1m  09\033[37;1m.\033[32;1mHash-Buster\033[37;1m"
+echo "\033[31;1m  10\033[37;1m.\033[32;1mSqlMAP\033[37;1m"
+echo "\033[31;1m  11\033[37;1m.\033[32;1mBot Comment Fb\033[37;1m"
+echo "\033[31;1m  12\033[37;1m.\033[32;1mTorshammer\033[37;1m"
+echo "\033[31;1m  13\033[37;1m.\033[32;1mIPGeolocation\033[37;1m"
+echo "\033[31;1m  14\033[37;1m.\033[32;1mRecondog\033[37;1m"
+echo "\033[31;1m  15\033[37;1m.\033[32;1mCrewbot\033[37;1m"
+echo "\033[31;1m  16\033[37;1m.\033[32;1miesDeface\033[37;1m"
+echo "\033[31;1m  17\033[37;1m.\033[32;1mRed_Hawk\033[37;1m"
+echo "\033[31;1m  18\033[37;1m.\033[32;1mWeeman\033[37;1m"
+echo "\033[31;1m  19\033[37;1m.\033[32;1mD-TECT\033[37;1m"
+echo "\033[31;1m  20\033[37;1m.\033[32;1mHammer\033[37;1m"
+echo "\033[31;1m  21\033[37;1m.\033[32;1mKatoolin\033[37;1m"
+echo "\033[31;1m  22\033[37;1m.\033[32;1mTeleponan Di Termux\033[37;1m"
+echo "\033[31;1m  23\033[37;1m.\033[32;1mMembuat Tulisan Figlet\033[37;1m"
+echo "\033[31;1m  24\033[37;1m.\033[32;1mXerxes\033[37;1m"
+echo "\033[31;1m  25\033[37;1m.\033[32;1mMain Moon-Buggy\033[37;1m"
+echo "\033[31;1m  26\033[37;1m.\033[32;1mInfo Handphone\033[37;1m"
+echo "\033[31;1m  27\033[37;1m.\033[32;1mviSQL\033[37;1m"
+echo "\033[31;1m  28\033[37;1m.\033[32;1mIESinstaller\033[37;1m"
+echo "\033[31;1m  29\033[37;1m.\033[32;1mSocialFish (Phising)\033[37;1m"
+echo "\033[31;1m  30\033[37;1m.\033[32;1mBinGoo (Dorking)\033[37;1m"
+echo "\033[31;1m  31\033[37;1m.\033[32;1mCupp (Wordlist)\033[37;1m"
+echo "\033[31;1m  32\033[37;1m.\033[32;1mA-Rat \033[37;1m"
+echo "\033[31;1m  33\033[37;1m.\033[32;1mPhising Mania (Phising)\033[37;1m"
+echo "\033[31;1m  34\033[37;1m.\033[32;1mSpider Bot \033[37;1m"
+echo "\033[31;1m  35\033[37;1m.\033[32;1mTx-Tools \033[37;1m"
+echo "\033[31;1m  36\033[37;1m.\033[32;1mDDOS21 \033[37;1m"
+echo "\033[31;1m  37\033[37;1m.\033[32;1mHunner \033[37;1m"
+echo "\033[31;1m  38\033[37;1m.\033[32;1m4wsectools \033[37;1m"
+echo "\033[31;1m  39\033[37;1m.\033[32;1mGadoGado \033[37;1m"
+echo "\033[31;1m  40\033[37;1m.\033[32;1mDiejoubu \033[37;1m"
+echo "\033[31;1m  41\033[37;1m.\033[32;1mErrorCyberTool \033[37;1m"
+echo "\033[31;1m  42\033[37;1m.\033[32;1mScan-Website-AdminLogin \033[37;1m"
+echo "\033[31;1m  43\033[37;1m.\033[32;1mAstraNmap \033[37;1m"
+echo "\033[31;1m  44\033[37;1m.\033[32;1mBlack-Hydra \033[37;1m"
+echo "\033[31;1m  45\033[37;1m.\033[32;1mHasher \033[37;1m"
+echo "\033[31;1m  46\033[37;1m.\033[32;1mPemulungBTC \033[37;1m"
+echo "\033[31;1m  47\033[37;1m.\033[32;1mBlackNmap \033[37;1m"
+echo "\033[31;1m  48\033[37;1m.\033[32;1mBruteSploit \033[37;1m"
+echo "\033[31;1m  49\033[37;1m.\033[32;1mZambie \033[37;1m"
+echo "\033[31;1m  50\033[37;1m.\033[32;1mTrackURL \033[37;1m"
+echo ""
+echo ""
+echo "\033[31;1m  99\033[37;1m.\033[32;1mKeluar\033[37;1m"
+echo ""
+echo "\033[32;1m ╭──> \033[33;1m Pilih Nomor!\033[32;1m"
+read -p " ╰─$ " si1
+
+if [ $si1 = 1 ] || [ $si1 = 01 ]
+then
+clear
+toilet -f slant -F gay "P47R1K21" | lolcat
+echo "\033[31;1mTunggu\033[33;1m Ea\033[32;1m Kenthot"
+echo ""
+sleep 1
+apt update && apt upgrade
+pkg install git
+pkg install python2
+git clone https://github.com/4L13199/LITEDDOS
+mv LITEDDOS $HOME
+cd $HOME/LITEDDOS
+python2 LITEDDOS.py
+fi
+
+if [ $si1 = 2 ] || [ $si1 = 02 ]
+then 
+clear
+toilet -f slant -F gay "P47R1K21" | lolcat
+echo "\033[31;1mTunggu\033[33;1m Ea\033[32;1m Kenthot"
+echo ""
+sleep 1
+apt update && apt upgrade
+apt install git
+apt install toilet
+pkg install pip
+pip2 install termcolor
+pip2 install lolcat
+git clone https://github.com/DarknessCyberTeam/BAJINGANv6
+mv BAJINGANv6 $HOME
+echo ""
+echo "Ussername : BAJINGAN"
+echo "Password  : Gans"
+echo ""
+fi
+
+if [ $si1 = 3 ] || [ $si1 = 03 ]
+then
+clear
+toilet -f slant -F gay "P47R1K21" | lolcat
+echo "\033[31;1mTunggu\033[33;1m Ea\033[32;1m Kenthot"
+echo ""
+sleep 1
+pkg update && pkg upgrade
+pkg install git
+git clone https://github.com/4L13199/LITETOOLS
+mv LITETOOLS $HOME
+cd $HOME/LITETOOLS
+sh LITETOOLS.isl
+fi
+
+if [ $si1 = 4 ] || [ $si1 = 04 ]
+then
+clear
+toilet -f slant -F gay "P47R1K21" | lolcat
+echo "\033[31;1mTunggu\033[33;1m Ea\033[32;1m Kenthot"
+echo ""
+sleep 1
+pkg install python2 git
+git clone https://github.com/4L13199/LITESCRIPT
+mv LITESCRIPT $HOME
+echo ""
+echo "  Buat Simpen Ke Internal"
+echo "  mv namascript.html /sdcard/"
+echo ""
+cd $HOME/LITESCRIPT
+python2 LITESCRIPT.py
+fi
+
+if [ $si1 = 5 ] || [ $si1 = 05 ]
+then
+clear
+toilet -f slant -F gay "P47R1K21" | lolcat
+echo "\033[31;1mTunggu\033[33;1m Ea\033[32;1m Kenthot"
+echo ""
+sleep 1
+pkg update && pkg upgrade 
+pkg install python2 
+pkg install git 
+git clone https://github.com/Gameye98/Lazymux
+mv Lazymux $HOME
+cd $HOME/Lazymux
+python2 lazymux.py
+fi
+
+if [ $si1 = 6 ] || [ $si1 = 06 ]
+then
+clear
+toilet -f slant -F gay "P47R1K21" | lolcat
+echo "\033[31;1mTunggu\033[33;1m Ea\033[32;1m Kenthot"
+echo ""
+sleep 1
+apt upgrade && apt update
+apt install git
+git clone https://github.com/Amriez/gcospam
+mv gcospam $HOME
+cd $HOME/gcospam
+sh install.sh
+sh gco.sh
+fi
+
+if [ $si1 = 99 ]
+then
+   echo "\033[33;1m"
+   read -p "   Yakin Ingin Keluar ? (Y/n)=~> " Knfrm
+   if [ $Knfrm = Y ] || [ $Knfrm = y ]
+   then
+   echo ""
+   echo " \033[31;1mExiting Tools....."
+   sleep 1
+   echo " \033[36;1mJangan Lupa Subs Channel Gw:v"
+   sleep 1
+   echo " Makasih Udh Gunain Tools Gw:)"
+   sleep 1
+   echo " Kalo Ada Bug/Rusak Chat Gw:)"
+   sleep 1
+   echo " Jangan Lupa Share Tools gw Ya!!"
+   sleep 1
+   echo " 1 Share = 1 Ilmu"
+   sleep 1
+   echo ""
+   exit
+   fi
+   
+   if [ $Knfrm = N ] || [ $Knfrm = n ]
+   then
+   clear
+   toilet -f slant -F gay "P47R1K21" | lolcat
+   echo "\033[31;1mTunggu\033[33;1m Ea\033[32;1m Kenthot"
+   echo ""
+   sleep 1
+   clear
+   sh Patrik
+   fi
+fi
+
+if [ $si1 = 7 ] || [ $si1 = 07 ]
+then
+clear
+toilet -f slant -F gay "P47R1K21" | lolcat
+echo "\033[31;1mTunggu\033[33;1m Ea\033[32;1m Kenthot"
+echo ""
+sleep 1
+pkg update && pkg upgrade
+pkg install git
+pkg install python2
+git clone https://github.com/Gameye98/SpazSMS
+mv SpazSMS $HOME
+cd $HOME/SpazSMS
+ls
+echo "Disitu Ada 3 Pilihan"
+echo "cara gunain=!"
+echo "python2 namaspam.py"
+echo "contoh: python2 phd.py"
+fi
+
+if [ $si1 = 8 ] || [ $si1 = 08 ]
+then
+clear
+toilet -f slant -F gay "P47R1K21" | lolcat
+echo "\033[31;1mTunggu\033[33;1m Ea\033[32;1m Kenthot"
+echo ""
+sleep 1
+echo "Penginstallan Sekitar 30-40 Menit mohon sabar ya jancuk"
+apt update && apt upgrade
+apt install curl
+curl -LO https://raw.githubusercontent.com/Hax4us/Metasploit_termux/master/metasploit.sh
+mv metasploit.sh $HOME
+chmod +x metasploit.sh
+./metasploit.sh
+fi
+
+if [ $si1 = 9 ] || [ $si1 = 09 ]
+then 
+clear
+toilet -f slant -F gay "P47R1K21" | lolcat
+echo "\033[31;1mTunggu\033[33;1m Ea\033[32;1m Kenthot"
+echo ""
+sleep 1
+apt update
+apt upgrade
+apt install python2
+apt install git
+git clone https://github.com/UltimateHackers/Hash-Buster
+mv Hash-Buster $HOME
+cd $HOME/Hash-Buster
+python2 hash.py
+cat makefile
+fi
+
+
+if [ $si1 = 10 ]
+then
+clear
+toilet -f slant -F gay "P47R1K21" | lolcat
+echo "\033[31;1mTunggu\033[33;1m Ea\033[32;1m Kenthot"
+echo ""
+sleep 1
+apt update && apt upgrade
+apt install python
+apt install python2
+apt install git
+git clone https://github.com/sqlmapproject/sqlmap
+mv sqlmap $HOME
+cd $HOME/sqlmap
+figlet -f standard "TERINSTALL" | lolcat
+echo ""
+echo "\033[31;1mCaranya Cari Sendiri Ya tod"
+fi
+
+if [ $si1 = 11 ]
+then
+clear
+toilet -f slant -F gay "P47R1K21" | lolcat
+echo "\033[31;1mTunggu\033[33;1m Ea\033[32;1m Kenthot"
+echo ""
+sleep 1
+pkg update && pkg upgrade 
+pkg install git 
+pkg install python2 
+pip2 install mechanize 
+git clone https://github.com/Senitopeng/Botkomena.git
+mv Botkomena $HOME
+cd $HOME/Botkomena
+figlet -f standard "TERINSTALL" | lolcat
+echo ""
+echo "\033[31;1mCaranya Cari Sendiri Ya tod"
+fi
+
+if [ $si1 = 12 ]
+then
+clear
+toilet -f slant -F gay "P47R1K21" | lolcat
+echo "\033[31;1mTunggu\033[33;1m Ea\033[32;1m Kenthot"
+echo ""
+sleep 1
+pkg update
+pkg install git
+Pkg install tor
+pkg install python2
+git clone https://github.com/dotfighter/torshammer.git
+mv torshammer $HOME
+cd $HOME/torshammer
+figlet -f standard "TERINSTALL" | lolcat
+echo ""
+echo "\033[31;1mCaranya Cari Sendiri Ya tod"
+fi
+
+if [ $si1 = 13 ]
+then
+clear
+toilet -f slant -F gay "P47R1K21" | lolcat
+echo "\033[31;1mTunggu\033[33;1m Ea\033[32;1m Kenthot"
+echo ""
+sleep 1
+Apt install python git 
+git clone https://github.com/maldevel/IPGeoLocation.git
+mv IPGeoLocation $HOME
+cd $HOME/IPGeoLocation
+figlet -f standard "TERINSTALL" | lolcat
+echo ""
+echo "\033[31;1mCaranya Cari Sendiri Ya tod"
+fi
+
+if [ $si1 = 14 ]
+then
+clear
+toilet -f slant -F gay "P47R1K21" | lolcat
+echo "\033[31;1mTunggu\033[33;1m Ea\033[32;1m Kenthot"
+echo ""
+sleep 1
+apt update
+apt install python python2 
+apt install git 
+git clone https://github.com/UltimateHackers/ReconDog
+mv ReconDog $HOME
+cd $HOME/ReconDog
+figlet -f standard "TERINSTALL" | lolcat
+echo ""
+echo "\033[31;1mCaranya Cari Sendiri Ya tod"
+fi
+
+if [ $si1 = 15 ]
+then
+clear
+toilet -f slant -F gay "P47R1K21" | lolcat
+echo "\033[31;1mTunggu\033[33;1m Ea\033[32;1m Kenthot"
+echo ""
+sleep 1
+apt update
+apt upgrade
+pkg install 
+git clone https://github.com/Xeit666h05t/CrewBot
+mv CrewBot $HOME
+cd $HOME/CrewBot
+figlet -f standard "TERINSTALL" | lolcat
+echo ""
+echo "\033[31;1mCaranya Cari Sendiri Ya tod"
+fi
+
+if [ $si1 = 16 ]
+then
+clear
+toilet -f slant -F gay "P47R1K21" | lolcat
+echo "\033[31;1mTunggu\033[33;1m Ea\033[32;1m Kenthot"
+echo ""
+sleep 1
+pkg update && pkg upgrade
+pkg install bash
+pkg install pip
+pip2 install bash
+git clone https://github.com/ALX-04/iesDEFACE
+mv iesDEFACE $HOME
+cd $HOME/iesDEFACE
+bash iesDeface.sh
+fi
+
+if [ $si1 = 17 ]
+then
+clear
+toilet -f slant -F gay "P47R1K21" | lolcat
+echo "\033[31;1mTunggu\033[33;1m Ea\033[32;1m Kenthot"
+echo ""
+sleep 1
+apt update 
+apt install git
+apt install php
+git clone https://github.com/Tuhinshubhra/RED_HAWK
+mv RED_HAWK $HOME
+cd $HOME/RED_HAWK 
+chmod +x rhawk.php 
+php rhawk.php
+fi
+
+if [ $si1 = 18 ]
+then
+clear
+toilet -f slant -F gay "P47R1K21" | lolcat
+echo "\033[31;1mTunggu\033[33;1m Ea\033[32;1m Kenthot"
+echo ""
+sleep 1
+apt update && apt upgrade -y
+apt install git -y
+apt install python2 -y
+git clone https://github.com/evait-security/weeman
+mv weeman $HOME
+cd $HOME/weeman 
+chmod 777 weeman.py 
+python2 weeman.py
+fi
+
+if [ $si1 = 19 ]
+then
+clear
+toilet -f slant -F gay "P47R1K21" | lolcat
+echo "\033[31;1mTunggu\033[33;1m Ea\033[32;1m Kenthot"
+echo ""
+sleep 1
+apt update 
+apt install git 
+apt install python2
+git clone https://github.com/shawarkhanethicalhacker/D-TECT
+mv D-TECT $HOME
+cd $HOME/D-TECT
+chmod +x d-tect.py
+python2 d-tect.py
+fi
+
+if [ $si1 = 20 ]
+then
+clear
+toilet -f slant -F gay "P47R1K21" | lolcat
+echo "\033[31;1mTunggu\033[33;1m Ea\033[32;1m Kenthot"
+echo ""
+sleep 1
+pkg update
+pkg upgrade
+pkg install python 
+pkg install git 
+git clone https://github.com/cyweb/hammer
+mv hammer $HOME
+cd $HOME/hammer
+echo ""
+echo "\033[31;1mCaranya Cari Sendiri Ya tod"
+fi
+
+if [ $si1 = 21 ]
+then
+clear
+toilet -f slant -F gay "P47R1K21" | lolcat
+echo "\033[31;1mTunggu\033[33;1m Ea\033[32;1m Kenthot"
+echo ""
+sleep 1
+Pkg install git
+Pkg install python2
+Pkg install gnupg
+Pkg install nano
+git clone https://github.com/LionSec/katoolin.git
+mv katoolin $HOME
+cd $HOME/katoolin
+nano katoolin.py
+python2 katoolin.py
+fi
+
+if [ $si1 = 22 ]
+then
+clear
+toilet -f slant -F gay "P47R1K21" | lolcat
+echo "\033[31;1mTunggu\033[33;1m Ea\033[32;1m Kenthot"
+echo ""
+sleep 1
+pkg install termux-api
+echo "\033[33;1mTelepon Sekarang!?!"
+echo "\033[31;1m"
+read -p "Masukan Nomor Yg Dituju! (Pakai=62/0)=~> " Tlpn1
+termux-telephony-call $Tlpn1
+fi
+
+if [ $si1 = 23 ]
+then
+clear
+toilet -f slant -F gay "P47R1K21" | lolcat
+echo "\033[31;1mTunggu\033[33;1m Ea\033[32;1m Kenthot"
+echo ""
+sleep 1
+pkg install figlet
+echo "\033[32;1m"
+read -p "Masukan Effectnya!?!= " effectfig
+read -p "Masukan Textnya!?!= " Mskntxt
+figlet -f $effectfig "$Mskntxt" | lolcat
+fi
+
+if [ $si1 = 24 ]
+then
+clear
+toilet -f slant -F gay "P47R1K21" | lolcat
+echo "\033[31;1mTunggu\033[33;1m Ea\033[32;1m Kenthot"
+echo ""
+sleep 1
+apt install git
+apt install clang
+git clone https://github.com/zanyarjamal/xerxes
+mv xerxes $HOME
+cd $HOME/xerxes
+clang xerxes.c -o xerxes
+echo $red "Masukan URL Target ! [ Ex: www.site.com ]\033[37;1m"
+read -p "[$]Xerxes=~> " Targetxerxes;
+echo ""
+./xerxes $Targetxerxes 80
+fi
+
+if [ $si1 = 25 ]
+then
+clear
+toilet -f slant -F gay "P47R1K21" | lolcat
+echo "\033[31;1mTunggu\033[33;1m Ea\033[32;1m Kenthot"
+echo ""
+sleep 1
+pkg install moon-buggy
+moon-buggy
+fi
+
+if [ $si1 = 26 ]
+then
+clear
+toilet -f slant -F gay "P47R1K21" | lolcat
+echo "\033[31;1mTunggu\033[33;1m Ea\033[32;1m Kenthot"
+echo ""
+sleep 1
+pkg install neofetch
+neofetch
+fi
+
+if [ $si1 = 27 ]
+then
+clear
+toilet -f slant -F gay "P47R1K21" | lolcat
+echo "\033[31;1mTunggu\033[33;1m Ea\033[32;1m Kenthot"
+echo ""
+sleep 1
+apt update
+apt install python2
+apt install git
+git clone https://github.com/blackvkng/viSQL
+mv viSQL $HOME
+cd $HOME/viSQL
+echo "\033[31;1mCaranya Cari Sendiri Ya tod"
+fi
+
+if [ $si1 = 28 ]
+then
+clear
+toilet -f slant -F gay "P47R1K21" | lolcat
+echo "\033[31;1mTunggu\033[33;1m Ea\033[32;1m Kenthot"
+echo ""
+sleep 1
+pkg update && pkg upgrade
+pkg install pip
+git clone https://github.com/ALX-04/iesInstall
+mv iesInstall $HOME
+cd $HOME/iesInstall
+chmod +x IESinstaller
+./IESinstaller
+fi
+
+if [ $si1 = 29 ]
+then
+clear
+toilet -f slant -F gay "P47R1K21" | lolcat
+echo "\033[31;1mTunggu\033[33;1m Ea\033[32;1m Kenthot"
+echo ""
+sleep 1
+pkg install php
+pkg install python2
+pkg install git
+pkg install curl
+ git clone https://github.com/Lexiie/SocialFish.git
+mv SocialFish $HOME
+cd $HOME/SocialFish
+pip2 install wget
+python2 SocialFish.py
+fi
+
+if [ $si1 = 30 ]
+then
+clear
+toilet -f slant -F gay "P47R1K21" | lolcat
+echo "\033[31;1mTunggu\033[33;1m Ea\033[32;1m Kenthot"
+echo ""
+sleep 1
+apt update && upgrade -y
+apt-get install lynx
+apt install grep
+apt-get install curl
+apt install git
+git clone https://github.com/Hood3dRob1n/BinGoo.git
+mv BinGoo $HOME
+cd $HOME/BinGoo
+termux-fix-shebang bingoo
+chmod +x bingoo
+bash bingoo
+fi
+
+if [ $si1 = 31 ]
+then
+clear
+toilet -f slant -F gay "P47R1K21" | lolcat
+echo "\033[31;1mTunggu\033[33;1m Ea\033[32;1m Kenthot"
+echo ""
+sleep 1
+pkg update && pkg upgrade
+pkg install python2
+pkg install git
+git clone https://github.com/Mebus/cupp.git
+mv cupp $HOME
+cd $HOME/cupp
+echo "\033[32;1m"
+echo "  Buat Simpen Ke Internal"
+echo "  Ketik ls"
+echo "  Liat File Yg Txt"
+echo "  Contoh: "
+echo "  mv wordlist.txt /sdcard/"
+echo ""
+echo ""
+echo "\033[33;1m  Kalo Mau Akses"
+echo "  Ketik: "
+echo "  python2 cupp.py -i (Pakai -i)"
+echo ""
+python2 cupp.py -i
+fi
+
+if [ $si1 = 32 ]
+then
+clear
+toilet -f slant -F gay "P47R1K21" | lolcat
+echo "\033[31;1mTunggu\033[33;1m Ea\033[32;1m Kenthot"
+echo ""
+sleep 1
+pkg update && pkg upgrade
+pkg install python2
+pkg install git
+git clone https://github.com/Xi4u7/A-Rat.git
+cd A-Rat
+echo "\033[32;1m"
+echo "  Cara Membuat Payload"
+echo "  http://senitopeng.blogspot.com/2017/12/a-rat-membuat-backdoortrojan-buka.html?m=1"
+echo ""
+fi
+
+if [ $si1 = 33 ]
+then
+clear
+toilet -f slant -F gay "P47R1K21" | lolcat
+echo "\033[31;1mTunggu\033[33;1m Ea\033[32;1m Kenthot"
+echo ""
+sleep 1
+apt update && apt upgrade
+apt install python2
+apt install apache2
+apt install php
+apt install git
+git clone https://github.com/Senitopeng/Mancing.git
+mv Mancing $HOME
+cd $HOME/Mancing
+echo "\033[32;1m"
+echo "  Kalau Mau DiPublikasiKan Linknya!"
+echo "  Pakai Ngrok"
+echo "  Tutorialnya Cari Di Google ea"
+echo " "
+sleep 5
+python2 mancing.py
+fi
+
+if [ $si1 = 34 ]
+then
+clear
+toilet -f slant -F gay "P47R1K21" | lolcat
+echo "\033[31;1mTunggu\033[33;1m Ea\033[32;1m Kenthot"
+echo ""
+sleep 1
+apt update && apt upgrade
+apt install php
+apt install git
+git clone https://github.com/Cvar1984/SpiderBot.git
+mv SpiderBot $HOME
+cd $HOME/SpiderBot
+echo ""
+echo "\033[36;1m"
+echo "  Tinggal DiJalankan Dech:)"
+echo "  Contoh Saya Ingin Pakai Botkomen"
+echo "  Ketik: php botkoment.php"
+echo ""
+ls
+fi
+
+if [ $si1 = 35 ]
+then
+clear
+toilet -f slant -F gay "P47R1K21" | lolcat
+echo "\033[31;1mTunggu\033[33;1m Ea\033[32;1m Kenthot"
+echo ""
+sleep 1
+pkg update && pkg upgrade
+pkg install python2
+pkg install git
+git clone https://github.com/kuburan/txtool.git
+mv txtool $HOME
+cd $HOME/txtool
+python2 install.py
+txtool
+fi
+
+if [ $si1 = 36 ]
+then
+clear
+toilet -f slant -F gay "P47R1K21" | lolcat
+echo "\033[31;1mTunggu\033[33;1m Ea\033[32;1m Kenthot"
+echo ""
+sleep 1
+pkg update && pkg upgrade
+pkg install python
+pkg install python2
+pkg install git
+pkg install clang
+pkg install bash
+pkg install php
+pkg install pip
+pip2 install mechanize
+pkg install termcolor
+git clone https://github.com/DCT162/DDOS21.git
+mv DDOS21 $HOME
+cd $HOME/DDOS21
+sh PATRIK
+fi
+
+if [ $si1 = 37 ]
+then
+clear
+toilet -f slant -F gay "P47R1K21" | lolcat
+echo "\033[\033[33;1m Ea\033[32;1m Kenthot"
+echo ""
+sleep 1
+apt update
+apt install git
+git clone https://github.com/b3-v3r/Hunner.git
+mv Hunner $HOME
+cd $HOME/Hunner
+chmod +x hunner.py
+python2 hunner.py
+fi
+
+if [ $si1 = 38 ]
+then
+clear
+toilet -f slant -F gay "P47R1K21" | lolcat
+echo "\033[31;1mTunggu\033[33;1m Ea\033[32;1m Kenthot"
+echo ""
+sleep 1
+apt update
+apt install git
+git clone https://github.com/aryanrtm/4wsectools
+mv 4wsectools $HOME
+cd $HOME/4wsectools
+chmod 777 tools
+./tools
+fi
+
+if [ $si1 = 39 ]
+then
+clear
+toilet -f slant -F gay "P47R1K21" | lolcat
+echo "\033[31;1mTunggu\033[33;1m Ea\033[32;1m Kenthot"
+echo ""
+sleep 1
+apt update && apt upgrade
+apt install ruby
+apt install lolcat
+apt install git
+git clone https://github.com/Senitopeng/GadoGado.git
+mv GadoGado $HOME
+cd $HOME/GadoGado
+bash gado
+fi
+
+if [ $si1 = 40 ]
+then
+clear
+toilet -f slant -F gay "P47R1K21" | lolcat
+echo "\033[31;1mTunggu\033[33;1m Ea\033[32;1m Kenthot"
+echo ""
+sleep 1
+apt install git
+apt install php
+git clone https://github.com/alintamvanz/diejoubu
+mv diejoubu $HOME
+cd $HOME/diejoubu
+cd v1.2
+php diejoubu.php
+fi
+
+if [ $si1 = 41 ]
+then
+clear
+toilet -f slant -F gay "P47R1K21" | lolcat
+echo "\033[31;1mTunggu\033[33;1m Ea\033[32;1m Kenthot"
+echo ""
+sleep 1
+apt update && apt upgrade
+apt install git
+git clone https://github.com/MrKeepSmile/errorcybertool.git
+mv errorcybertool $HOME
+cd $HOME/errorcybertool
+chmod 777 errorcyber
+./errorcyber
+fi
+
+if [ $si1 = 42 ]
+then
+clear
+toilet -f slant -F gay "P47R1K21" | lolcat
+echo "\033[31;1mTunggu\033[33;1m Ea\033[32;1m Kenthot"
+echo ""
+sleep 1
+apt update && apt upgrade
+git clone https://github.com/DarknessCyberTeam/Scan-Website-Admin-Login
+mv Scan-Website-Admin-Login $HOME
+cd $HOME/Scan-Website-Admin-Login
+python2 Admin-Login.py
+fi
+
+if [ $si1 = 43 ]
+then
+clear
+toilet -f slant -F gay "P47R1K21" | lolcat
+echo "\033[31;1mTunggu\033[33;1m Ea\033[32;1m Kenthot"
+echo ""
+sleep 1
+apt update && apt upgrade
+apt install git
+apt install sh
+pip2 install sh
+git clone https://github.com/Gameye98/AstraNmap
+mv AstraNmap $HOME
+cd $HOME/AstraNmap
+sh astranmap.sh
+fi
+
+if [ $si1 = 44 ]
+then
+clear
+toilet -f slant -F gay "P47R1K21" | lolcat
+echo "\033[31;1mTunggu\033[33;1m Ea\033[32;1m Kenthot"
+echo ""
+sleep 1
+apt update && apt upgrade
+apt install git
+apt install python
+apt install python2
+git clone https://github.com/Gameye98/Black-Hydra.git
+mv Black-Hydra $HOME
+cd $HOME/Black-Hydra
+python2 blackhydra.py
+fi
+
+if [ $si1 = 45 ]
+then
+clear
+toilet -f slant -F gay "P47R1K21" | lolcat
+echo "\033[31;1mTunggu\033[33;1m Ea\033[32;1m Kenthot"
+echo ""
+sleep 1
+apt update && apt upgrade
+apt install git
+apt install python
+apt install python2
+git clone https://github.com/CiKu370/hasher.git
+mv hasher $HOME
+cd $HOME/hasher
+python2 hash.py
+fi
+
+if [ $si1 = 46 ]
+then
+clear
+toilet -f slant -F gay "P47R1K21" | lolcat
+echo "\033[31;1mTunggu\033[33;1m Ea\033[32;1m Kenthot"
+echo ""
+sleep 1
+pkg install python
+pkg install git
+pkg install php
+git clone https://github.com/Cvar1984/pemulungBTC.git
+mv pemulungBTC $HOME
+cd $HOME/pemulungBTC
+php autoload.php
+php mulung.php
+fi
+
+if [ $si1 = 47 ]
+then
+clear
+toilet -f slant -F gay "P47R1K21" | lolcat
+echo "\033[31;1mTunggu\033[33;1m Ea\033[32;1m Kenthot"
+echo ""
+sleep 1
+apt update
+apt upgrade
+apt install git
+git clone https://github.com/Xi4u7/BlackNmap
+mv BlackNmap $HOME
+cd $HOME/BlackNmap
+chmod 777 blacknmap
+./blacknmap
+fi
+
+if [ $si1 = 48 ]
+then
+clear
+toilet -f slant -F gay "P47R1K21" | lolcat
+echo "\033[31;1mTunggu\033[33;1m Ea\033[32;1m Kenthot"
+echo ""
+sleep 1
+apt update
+apt upgrade
+apt install git
+git clone https://github.com/Screetsec/BruteSploit
+mv BruteSploit $HOME
+cd $HOME/BruteSploit
+chmod 777 Brutesploit
+./Brutesploit
+fi
+
+if [ $si1 = 49 ]
+then
+clear
+toilet -f slant -F gay "P47R1K21" | lolcat
+echo "\033[31;1mTunggu\033[33;1m Ea\033[32;1m Kenthot"
+echo ""
+sleep 1
+apt update
+apt upgrade
+apt install git
+apt install python2
+git clone https://github.com/zanyarjamal/zambie
+mv zambie $HOME
+cd $HOME/zambie
+sh Installer.sh
+python2 zambie.py
+fi
+
+if [ $si1 = 50 ]
+then
+clear
+toilet -f slant -F gay "P47R1K21" | lolcat
+echo "\033[31;1mTunggu\033[33;1m Ea\033[32;1m Kenthot"
+echo ""
+sleep 1
+apt update
+apt upgrade
+apt install git
+git clone https://github.com/zanyarjamal/TrackUrl
+mv TrackUrl $HOME
+cd $HOME/TrackUrl
+sh TrackUrl.sh
+fi
